@@ -1,5 +1,5 @@
 = 1.1.7 2023-08-30 =
-* Update plugin meta data.
+* OM Update plugin meta data.
 * Check compatibility with latest WordPress version.
 
 = 1.1.6 2023-08-25 =

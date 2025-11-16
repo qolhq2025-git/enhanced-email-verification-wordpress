@@ -1,0 +1,30 @@
+{
+    "name": "amiut/wp-email-verification",
+    "description": "Wordpress plugin to create specification tables",
+    "type": "wordpress-plugin",
+    "license": "GPL-2.0-or-later",
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "authors": [
+      {
+        "name": "Dornaweb",
+        "email": "info@dornaweb.com",
+        "homepage": "https://www.dornaweb.com",
+        "role": "company"
+      },
+      {
+        "name": "Amin Abdolrezapoor",
+        "email": "hi@amin.nz",
+        "homepage": "https://amin.nz"
+      }
+    ],
+    "require": {
+        "php": ">=7.4",
+        "anthonybudd/wp_mail": "^1.0"
+    },
+    "config": {
+      "platform": {
+        "php": "7.4"
+      }
+    }
+}
